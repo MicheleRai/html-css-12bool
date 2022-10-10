@@ -1,0 +1,26 @@
+.bg-blue{
+    background-color: #006CFA;
+}
+.bg-green{
+    background-color: #00E165;
+}
+.txt-white{
+    color: white;
+}
+.bord-white{
+    border: 1px solid white;
+}
+.h70{
+    height: 70px;
+}
+.align-center{
+    line-height: 70px;
+}
+.align-center-nested{
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+}
+.pad-1{
+    padding: 1rem;
+}
