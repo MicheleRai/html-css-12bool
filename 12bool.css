@@ -12,6 +12,18 @@
     flex-direction: row;
     flex-wrap: wrap;
 }
+.content-center{
+    justify-content: center;
+}
+.content-end{
+    justify-content: end;
+}
+.items-mid{
+    align-items: center;
+}
+.items-bottom{
+    align-items: flex-end;
+}
 .align-center{
     text-align: center;
 }
