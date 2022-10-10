@@ -18,6 +18,12 @@
 .content-end{
     justify-content: end;
 }
+.content-around{
+    justify-content: space-around;
+}
+.content-between{
+    justify-content: space-between;
+}
 .items-mid{
     align-items: center;
 }
